@@ -1,5 +1,7 @@
 import { useState } from "react";
 import { saveAs } from "file-saver";
+// Import the copy function
+import { copyImageToClipboard } from 'copy-image-clipboard'
 
 const Meme = ({ meme, setMeme }) => {
   // console.log(meme)
@@ -76,7 +78,12 @@ const Meme = ({ meme, setMeme }) => {
         <button onClick={handleGenerateMeme}>Generate Meme</button>
 
         {/* render download button when api status sucessfull */}
-        {download && <button onClick={handleDownload}>Download</button>}
+        {
+            download && <>
+                <button onClick={handleDownload}>Download</button>
+                <button onClick={()=>copyImageToClipboard(`${meme.url}`)}>Copy</button>
+            </>
+        }
         <button onClick={() => setMeme(null)}>Choose Templates</button>
       </div>
     </div>

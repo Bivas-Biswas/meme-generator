@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import Templates from "./components/Templates";
-import Meme from "./components/Meme";
+import Templates from "./pages/Templates";
+import Meme from "./pages/MemeSettings";
 import "./styles/App.css";
 
 function App() {
