@@ -20,7 +20,6 @@
   <a href="https://github.com/Bivas-Biswas/meme-generator">
     <img src="./assets/logo.png" alt="Logo">
   </a>
-</p>
     <h3 align="center">Best-README-Template</h3>
   <p align="center">
     A Meme Generator. Bring Your Meme in Life.
@@ -34,7 +33,7 @@
     ·
     <a href="https://github.com/Bivas-Biswas/meme-generator/issues">Request Feature</a>
   </p>
-
+</p>
 
 <!-- TABLE OF CONTENTS -->
 # Table of Contents
