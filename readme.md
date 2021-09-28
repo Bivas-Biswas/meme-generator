@@ -28,7 +28,7 @@
     <a href="https://github.com/Bivas-Biswas/meme-generator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Bivas-Biswas/meme-generator">View Demo</a>
+    <a href="https://bivas-biswas.github.io/meme-generator/">View Demo</a>
     ·
     <a href="https://github.com/Bivas-Biswas/meme-generator/issues">Report Bug</a>
     ·
