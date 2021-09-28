@@ -62,7 +62,7 @@ Meme Generator is a most popular poject test our knowledge. So I also creating a
         <td>
             <a href="https://bivas-biswas.github.io/meme-generator">
                 <p align="center">
-                    <img src="assets/homepage.png" alt="homepage">
+                    <img src="assets/homepage.jpg" alt="homepage">
                     <p align="center">Home Page</p>
                 </p>
             </a>
@@ -72,7 +72,7 @@ Meme Generator is a most popular poject test our knowledge. So I also creating a
         <td>
             <a href="https://bivas-biswas.github.io/BrickBreakers">
                 <p align="center">
-                    <img src="assets/setting_page.png" alt="setting_page">
+                    <img src="assets/setting_page.jpg" alt="setting_page">
                     <p align="center">Setting Page</p>
                 </p>
             </a>
